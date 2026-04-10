@@ -33,18 +33,19 @@ voice_ai_agent/
 ├── output/
 ├── temp/
 
+
 ## ▶️ How to Run
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 🎥 Demo
 
 (Add your YouTube link here)
 
 
 ---
-
 # 🎥 STEP 9: Video Demo Script (2–3 min)
 
 Just follow this:
