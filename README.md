@@ -41,8 +41,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🎥 Demo
+🎥 Demo Video
 
-(Add your YouTube link here)
+https://youtu.be/KwK0PrQG9Z4?si=bKxDWaHV6tQPZEwH
 
 
